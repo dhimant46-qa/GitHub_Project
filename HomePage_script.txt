@@ -1,0 +1,7 @@
+Class Hp
+
+	def_testcase01():
+	
+	def_testcase02():
+
+	def_testcase03():
